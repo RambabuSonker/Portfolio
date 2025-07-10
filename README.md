@@ -1,2 +1,2 @@
 # Portfolio
-hi
+A personal portfolio website built using HTML and CSS.
